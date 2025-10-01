@@ -1,0 +1,47 @@
+{
+  "name": "travelsite",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@radix-ui/react-dialog": "^1.1.14",
+    "@radix-ui/react-slot": "^1.2.3",
+    "@react-google-maps/api": "^2.20.7",
+    "@stripe/react-stripe-js": "^3.7.0",
+    "@stripe/stripe-js": "^7.5.0",
+    "@types/react-datepicker": "^6.2.0",
+    "aos": "^2.3.4",
+    "axios": "^1.9.0",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "country-code-flag-phone-extension-json": "^1.0.2",
+    "framer-motion": "^12.18.1",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.511.0",
+    "next": "^15.4.4",
+    "openai": "^5.6.0",
+    "prop-types": "^15.8.1",
+    "react": "^19.1.0",
+    "react-datepicker": "^8.4.0",
+    "react-dom": "^19.1.0",
+    "react-toastify": "^11.0.5",
+    "shadcn-ui": "^0.9.5",
+    "sonner": "^2.0.7",
+    "tailwind-merge": "^3.3.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "24.0.10",
+    "eslint": "^9",
+    "eslint-config-next": "^15.4.4",
+    "tailwindcss": "^4",
+    "tw-animate-css": "^1.3.0",
+    "typescript": "5.8.3"
+  }
+}
